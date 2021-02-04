@@ -24,10 +24,10 @@
             "-fdiagnostics-color",
             "-std=gnu99",
             "-o",
-            "bin/auto.c.o",
+            "C:/Users/mekhi/AppData/Local/Temp/tmpnt69dkx0/auto.c.o",
             "src\\auto.c"
         ],
-        "directory": "C:\\Users\\Admin\\Documents\\Full Clawbot Project 3",
+        "directory": "C:\\Users\\mekhi\\documents\\Full-Clawbot-Project-3-",
         "file": "src\\auto.c"
     },
     {
@@ -55,10 +55,10 @@
             "-fdiagnostics-color",
             "-std=gnu99",
             "-o",
-            "bin/init.c.o",
+            "C:/Users/mekhi/AppData/Local/Temp/tmpnt69dkx0/init.c.o",
             "src\\init.c"
         ],
-        "directory": "C:\\Users\\Admin\\Documents\\Full Clawbot Project 3",
+        "directory": "C:\\Users\\mekhi\\documents\\Full-Clawbot-Project-3-",
         "file": "src\\init.c"
     },
     {
@@ -86,10 +86,10 @@
             "-fdiagnostics-color",
             "-std=gnu99",
             "-o",
-            "bin/opcontrol.c.o",
+            "C:/Users/mekhi/AppData/Local/Temp/tmpnt69dkx0/opcontrol.c.o",
             "src\\opcontrol.c"
         ],
-        "directory": "C:\\Users\\Admin\\Documents\\Full Clawbot Project 3",
+        "directory": "C:\\Users\\mekhi\\documents\\Full-Clawbot-Project-3-",
         "file": "src\\opcontrol.c"
     }
 ]
